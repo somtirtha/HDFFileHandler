@@ -31,3 +31,6 @@ local.properties
 # Java annotation processor (APT)
 .factorypath
 /bin/
+
+# Java resources
+resources
